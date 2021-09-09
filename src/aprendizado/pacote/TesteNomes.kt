@@ -13,7 +13,7 @@ fun sigNome(names: String) : String{
        "Carlos"-> "Touro"
        "Silvio"-> "Libras"
        "Raimundo"-> "Gemeos"
-       "Joaquin"-> "Escorpiao"
+       "Joaquin"-> "Escoriao"
        else -> "Nada"
    }
 }
